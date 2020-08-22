@@ -2,5 +2,5 @@ ___
 layout:slide
 title: "Welcome to our second slide!"
 ___
-Your text
+Stay Right dont go left 
 Use the left arrow to go back !
